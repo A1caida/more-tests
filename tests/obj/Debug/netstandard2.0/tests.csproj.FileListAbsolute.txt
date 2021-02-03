@@ -1,0 +1,9 @@
+C:\Users\A1caida\source\repos\tests\tests\bin\Debug\netstandard2.0\tests.deps.json
+C:\Users\A1caida\source\repos\tests\tests\bin\Debug\netstandard2.0\tests.dll
+C:\Users\A1caida\source\repos\tests\tests\bin\Debug\netstandard2.0\tests.pdb
+C:\Users\A1caida\source\repos\tests\tests\obj\Debug\netstandard2.0\tests.csprojAssemblyReference.cache
+C:\Users\A1caida\source\repos\tests\tests\obj\Debug\netstandard2.0\tests.AssemblyInfoInputs.cache
+C:\Users\A1caida\source\repos\tests\tests\obj\Debug\netstandard2.0\tests.AssemblyInfo.cs
+C:\Users\A1caida\source\repos\tests\tests\obj\Debug\netstandard2.0\tests.csproj.CoreCompileInputs.cache
+C:\Users\A1caida\source\repos\tests\tests\obj\Debug\netstandard2.0\tests.dll
+C:\Users\A1caida\source\repos\tests\tests\obj\Debug\netstandard2.0\tests.pdb
