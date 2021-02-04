@@ -180,4 +180,32 @@ namespace UnitTest1
             }
         }
     }
+
+    public class Inconclusive
+    {
+        [TestMethod]
+        public void Inconclusive1()
+        {
+            try
+            {
+                try
+                {
+                    string rofl = "1234567";
+                    if (rofl.Length > 6)
+                    {
+                        Assert.Inconclusive();
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("sad");
+                    throw;
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
+    }
 }
